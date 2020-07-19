@@ -239,6 +239,9 @@ a.read-more,a.read-more:active,a.read-more:hover{
 .logo__text{
     font-size:1.125rem
 }
+.logo__icon{
+  margin-right: 10px;
+}
 .logo__cursor{
     display:inline-block;
     width:10px;
